@@ -38,53 +38,31 @@ A command-line based Cab Booking System built in C++ that simulates the core wor
 ---
 
 ## Project Structure
-CabBookingSystem/
 
-├── include/
-
-│   ├── Person.h
-
-│   ├── Customer.h
-
-│   ├── Driver.h
-
-│   ├── Vehicle.h
-
-│   ├── Bike.h
-
-│   ├── Sedan.h
-
-│   ├── SUV.h
-
-│   ├── Ride.h
-
-│   └── RideService.h
-
-├── src/
-
-│   ├── Person.cpp
-
-│   ├── Customer.cpp
-
-│   ├── Driver.cpp
-
-│   ├── Vehicle.cpp
-
-│   ├── Bike.cpp
-
-│   ├── Sedan.cpp
-
-│   ├── SUV.cpp
-
-│   ├── Ride.cpp
-
-│   └── RideService.cpp
-
-├── main.cpp
-
-├── .gitignore
-
-└── README.md
+    CabBookingSystem/
+    ├── include/
+    │   ├── Person.h
+    │   ├── Customer.h
+    │   ├── Driver.h
+    │   ├── Vehicle.h
+    │   ├── Bike.h
+    │   ├── Sedan.h
+    │   ├── SUV.h
+    │   ├── Ride.h
+    │   └── RideService.h
+    ├── src/
+    │   ├── Person.cpp
+    │   ├── Customer.cpp
+    │   ├── Driver.cpp
+    │   ├── Vehicle.cpp
+    │   ├── Bike.cpp
+    │   ├── Sedan.cpp
+    │   ├── SUV.cpp
+    │   ├── Ride.cpp
+    │   └── RideService.cpp
+    ├── main.cpp
+    ├── .gitignore
+    └── README.md
 ---
 
 ## How to Run
